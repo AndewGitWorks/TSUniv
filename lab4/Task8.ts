@@ -41,7 +41,7 @@ let orders: DeliveryOrderTask8[] = [
     },
     
     {
-        id: 3002,
+        id: '3002',
         customer: {
             id: 2,
             name: 'ООО "Ромашка"'
